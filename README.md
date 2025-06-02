@@ -62,7 +62,7 @@ Check out the live app:
 
 ## 🤝 Team
 
-- [Fares Hatahet](https://github.com/TisTis0004)
+- Ahamd Al-Hmouz
 - Basel Qarout
 
 ## 📄 License
