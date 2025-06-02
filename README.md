@@ -37,3 +37,38 @@ Try it out live:
 ```bash
 git clone https://github.com/TisTis0004/Arabic-Dialects-Classification-with-AraBERT-Streamlit.git
 cd Arabic-Dialects-Classification-with-AraBERT-Streamlit
+```
+
+### 2. Install dependencies
+
+Create a new virtual environment (optional but recommended), then:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+
+```bash
+streamlit run app.py
+```
+
+> **Note:** The fine-tuned model is loaded automatically from Hugging Face Hub ([TisTis/arabert-dialect-checkpoint](https://huggingface.co/TisTis/arabert-dialect-checkpoint)), so you don’t need to download anything extra.
+
+## 🌐 Live Demo
+
+Check out the live app:  
+[https://arabic-dialects-classification-with-arabert-app-a7bej9g5vlrpkr.streamlit.app/](https://arabic-dialects-classification-with-arabert-app-a7bej9g5vlrpkr.streamlit.app/)
+
+## 🤝 Team
+
+- [Fares Hatahet](https://github.com/TisTis0004)
+- Basel Qarout
+
+## 📄 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+## 📬 Contact
+
+Feel free to open an issue or reach out if you have suggestions or questions!
